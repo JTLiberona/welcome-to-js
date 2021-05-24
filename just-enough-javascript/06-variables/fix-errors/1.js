@@ -1,2 +1,2 @@
-let favorteColor = 'red';
+let favoriteColor = 'red';
 console.log(favoriteColor); // 'red'

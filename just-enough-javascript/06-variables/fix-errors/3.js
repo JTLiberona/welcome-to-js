@@ -1,5 +1,5 @@
 let favoriteVegetable = 'potato';
 console.log(favoriteVegetable); // 'potato'
 
-let favoriteVegetable = 'carrot';
+favoriteVegetable = 'carrot';
 console.log(favoriteVegetable); // 'carrot'
